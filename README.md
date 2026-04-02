@@ -3,11 +3,17 @@
 
     Mumble: The star of the show, Mumble is a fluffy, bumbling creature with mismatched eyes and a penchant for playful mischief. His laugh is infectious, and his heart is as big as his appetite for adventure.
     The Magnificent Menagerie:
+    
         Grumble the Grump: A small dragon with a perpetually annoyed expression, but secretly enjoys Mumble's antics. His grumbles are more for show than substance.
+        
         Slink the Silent: A sleek, mysterious cat-like creature who can move without making a sound. Slink is Mumble's stealthy spy, always knowing what's happening around the menagerie.
+        
         Bounce the Boundless: An oversized, bouncy ball of fur that never stops moving. Bounce adds energy and laughter to every gathering, often leading to chaotic fun.
+        
         Whisper the Wise: An ancient turtle with a shell covered in glowing runes. Whisper provides sage advice but only speaks in riddles, making Mumble think deeply about his adventures.
+        
         Twirl the Twinkling: A fairy with light for wings, casting glitters wherever she goes. Twirl brings magic and light to the darkest corners of their adventures.
+        
         Giggle the Giggler: A tiny, mischievous imp who can't stop laughing, especially at the most inappropriate times, turning tense moments into joyful ones.
 
 
